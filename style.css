@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Poppins-Regular'; /* The name of the font */
-  src: url('Poppins/Poppins-Regular.ttf') /* The path to the font file */
+  src: url('font/Poppins-Regular.ttf') /* The path to the font file */
 }
 
 *{
